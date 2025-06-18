@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1749854032 source:c:\users\gabriel.menegueti\desktop\gabriel_tetzner\gabriel_tetzner.cpp
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<memory.h>
+	"gabriel_tetzner.h"
+
+1749852797 c:\users\gabriel.menegueti\desktop\gabriel_tetzner\gabriel_tetzner.h
+
+1750185281 source:c:\users\tetzner\desktop\mo\provas\prova2\gabriel_tetzner_correcao\gabriel_tetzner.cpp
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<memory.h>
+	"gabriel_tetzner.h"
+
+1749855547 c:\users\tetzner\desktop\mo\provas\prova2\gabriel_tetzner_correcao\gabriel_tetzner.h
+
